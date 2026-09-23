@@ -1,8 +1,9 @@
-<h1 align="center">
+<h2 align="center">
   Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=I'm+Gimhana%2C+a+Computer+Science+Student;Systems+Architect+in+training+%7C+Aspiring+AI+Engineer;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=950&lines=I'm+Gimhana%2C+a+Computer+Science+Student;Systems+Architect+in+training+%7C+Aspiring+AI+Engineer;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <h3 align="center">✨ Building tomorrow's intelligent systems — one commit at a time ✨</h3>
 
