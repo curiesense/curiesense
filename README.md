@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=950&lines=I'm+Gimhana%2C+a+Computer+Science+Student;Systems+Architect+in+training+%7C+Aspiring+AI+Engineer;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="center">✨ Building tomorrow's intelligent systems — one commit at a time ✨</h3>
+<h3 align="center">✨ Building intelligent systems for tomorrow, piece by piece ✨</h3>
 
 
 
