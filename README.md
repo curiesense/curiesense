@@ -80,7 +80,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 ## 😂 Random Dev Joke
 
-<p align="center">
+<p align="left">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
 </p>
 
