@@ -46,7 +46,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 **🔨 Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,discord" />
 
 ---
 
