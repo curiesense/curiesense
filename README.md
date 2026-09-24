@@ -39,9 +39,14 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 <br>
 
-**🛠️ DevOps & Tools**
+**🛠️ DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+<br>
+
+**🔨 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
 
