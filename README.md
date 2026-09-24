@@ -113,6 +113,10 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 ---
 
 <p align="center">
+  <b>🔹 Always eager to learn, innovate, and build secure, scalable systems. 🔹</b>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=80&section=footer" width="100%" />
 </p>
 
