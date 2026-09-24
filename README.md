@@ -66,15 +66,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gimsonic&theme=radical&hide_border=true&point=FF8C00&line=FF8C00&color=FF8C00" alt="Gimhana's Contribution Graph" />
 </p>
 
----
 
-## 🏆 Trophy Showcase
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gimsonic&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
