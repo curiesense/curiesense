@@ -31,7 +31,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 **🧠 AI & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,python" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 <br>
 
 **🗄️ Databases**
