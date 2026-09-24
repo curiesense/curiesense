@@ -116,7 +116,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF8C00,FF8C00&height=80&section=footer" width="100%" />
 </p>
 
 <p align="center">
