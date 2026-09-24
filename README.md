@@ -26,7 +26,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 **🌐 Full-Stack Technologies**
 
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,fastapi,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring,html,css,tailwind" />
 <br>
 
 **🧠 AI & Machine Learning**
