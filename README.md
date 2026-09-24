@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Hi,%20I'm%20Gimhana!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Systems%20Architect%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Hi,%20there!%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=950&lines=Systems+Architect+in+training+%7C+Aspiring+AI+Engineer;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80;Building+Full-Stack+Apps+%26+Data+Pipelines" alt="Typing SVG" />
