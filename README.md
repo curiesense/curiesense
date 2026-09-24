@@ -52,11 +52,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curiesense&show_icons=true&theme=radical&hide_border=true&title_color=FF8C00&icon_color=FF8C00&ring_color=FF8C00" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiesense&layout=compact&theme=radical&hide_border=true&title_color=FF8C00" alt="Top Languages" height="180"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiesense&theme=radical&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
@@ -78,6 +74,14 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curiesense/curiesense/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/curiesense/curiesense/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
 </p>
 
 ---
