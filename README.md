@@ -102,7 +102,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/curiesense" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:gimhanamenaka@icloud.com">
