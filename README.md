@@ -13,15 +13,7 @@
 
 ## 👨‍💻 About Me
 
-> I'm a **BSc (Hons) Computer Science** undergraduate at the **University of Kelaniya**, passionate about designing intelligent, scalable systems. I love exploring the intersection of **AI/ML** and **software engineering** — from building robust backends to experimenting with machine learning models.
-
-- 🎓 **Studying:** BSc (Hons) Computer Science @ University of Kelaniya
-- 🚀 **Career Goal:** AI / Machine Learning Engineering — building systems that think
-- 🔭 **Currently:** Turning ideas into scalable software & deepening ML knowledge
-- 🛠️ **Working with:** TypeScript · Python · Java · Spring Boot · Docker
-- 🤝 **Open to:** Collaborations, mentorship, open-source contributions & internship opportunities
-- 📧 **Reach me:** [gimhanamenaka@icloud.com](mailto:gimhanamenaka@icloud.com)
-- ⚡ **Fun fact:** I debug best at 2 AM with lo-fi beats 🎧
+Passionate **Computer Science undergraduate** at the University of Kelaniya with a strong focus on designing intelligent, scalable systems. Experienced in building full-stack applications and data pipelines, with a deep interest in **AI integrations and system architecture**. Dedicated to writing **clean, maintainable code** and exploring the intersection of machine learning and robust backend engineering to solve real-world problems.
 
 ---
 
