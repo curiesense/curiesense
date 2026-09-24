@@ -36,7 +36,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 <br>
 
 **🛠️ DevOps & Tools**
