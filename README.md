@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=950&lines=Systems+Architect+in+training+%7C+Aspiring+AI+Engineer;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80;Building+Full-Stack+Apps+%26+Data+Pipelines" alt="Typing SVG" />
 </p>
 
-<p align="center"><i>⚡ Building intelligent systems for tomorrow, piece by piece ⚡</i></p>
+<p align="center"><i>✨ Building intelligent systems for tomorrow, piece by piece ✨</i></p>
 
 
 
