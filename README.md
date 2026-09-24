@@ -100,11 +100,11 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
   <a href="https://www.linkedin.com/in/curiesense/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/curiesense" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gimhanamenaka@icloud.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
