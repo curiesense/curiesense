@@ -21,7 +21,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 **💻 Programming & Development**
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,cs" />
 <br>
 
 **🌐 Full-Stack Technologies**
