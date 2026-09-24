@@ -50,7 +50,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 
 
