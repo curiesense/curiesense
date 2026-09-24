@@ -19,30 +19,20 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 ## 🔧 Tech Stack
 
-### 💻 Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
-</p>
+**💻 Programming & Development**<br>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js" />
 
-### 🌐 Full-Stack Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
-</p>
+**🌐 Full-Stack Technologies**<br>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,html,css,tailwind" />
 
-### 🧠 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
-</p>
+**🧠 AI & Machine Learning**<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+**🗄️ Databases**<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
-</p>
+**🛠️ DevOps & Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" />
 
 ---
 
