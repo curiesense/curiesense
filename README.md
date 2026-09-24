@@ -129,7 +129,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 ## 🎭 Matrix Rain
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Matrix.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 
 ---
