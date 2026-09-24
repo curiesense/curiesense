@@ -53,17 +53,17 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gimsonic&show_icons=true&theme=radical&hide_border=true&title_color=FF8C00&icon_color=FF8C00&ring_color=FF8C00" alt="Gimhana's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=curiesense&show_icons=true&theme=radical&hide_border=true&title_color=FF8C00&icon_color=FF8C00&ring_color=FF8C00" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimsonic&layout=compact&theme=radical&hide_border=true&title_color=FF8C00" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiesense&layout=compact&theme=radical&hide_border=true&title_color=FF8C00" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimsonic&theme=radical&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiesense&theme=radical&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gimsonic&theme=radical&hide_border=true&point=FF8C00&line=FF8C00&color=FF8C00" alt="Gimhana's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=curiesense&theme=radical&hide_border=true&point=FF8C00&line=FF8C00&color=FF8C00" alt="Contribution Graph" />
 </p>
 
 
