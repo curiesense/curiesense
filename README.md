@@ -17,33 +17,31 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🔧 Tech Stack
 
-<h4 align="center">⚡ Languages</h4>
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### 💻 Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
 </p>
 
-<h4 align="center">🧩 Frameworks & Libraries</h4>
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+### 🌐 Full-Stack Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
 </p>
 
-<h4 align="center">🗄️ Databases & DevOps</h4>
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### 🧠 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
 </p>
 
 ---
