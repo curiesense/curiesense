@@ -41,7 +41,7 @@ Passionate **Computer Science undergraduate** at the University of Kelaniya with
 
 **🛠️ DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+<img src="https://skillicons.dev/icons?i=docker,linux,aws" />
 <br>
 
 **🔨 Tools**
